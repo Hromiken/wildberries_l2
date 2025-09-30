@@ -1,0 +1,6 @@
+apple	10	Jan
+orange	2	Feb
+banana	100	Mar
+pear	5	Jan
+kiwi	50	Dec
+apple	10	Jan
